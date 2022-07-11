@@ -3,7 +3,7 @@
 I can speak the following languages (IRL)
 - Espa;ol / Spanish / スペイン語 -> Native
 - Ingles / English / 英語 -> Fluent
-- Japones / Japanese / に言語 -> Intermediate
+- Japones / Japanese / 日本語 -> Intermediate
 
 ## I've achieved
 - A Arch, Artix, Gentoo, NixOS Install
