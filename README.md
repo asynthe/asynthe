@@ -16,10 +16,10 @@ I can speak the following languages (IRL)
 -Python -> Rust
 -C++
 #### Skills
--Linux and Bash Scripting
--Cyber Security
--Videogame Development with Unreal Engine 5 and Blender
--Making Subtitles with Aegisub
+- Linux and Bash Scripting
+- Cyber Security
+- Videogame Development with Unreal Engine 5 and Blender
+- Making Subtitles with Aegisub
 
 ## I'm insterested in 
 -Making a good Wayland system on Linux
