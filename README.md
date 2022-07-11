@@ -5,12 +5,11 @@ I can speak the following languages (IRL)
 - Ingles / English / 英語 -> Fluent
 - Japones / Japanese / に言語 -> Intermediate
 
----
-
 ## I've achieved
 - A Arch, Artix, Gentoo, NixOS Install
 - My Arch (by now) Linux Wayland System -> dotfiles
   - twm: Hyprland
+
 ## I'm insterested in 
 - Moving all my Workflow to Linux
 - Using OADG Japanese Keyboard on Linux
