@@ -1,9 +1,9 @@
 @asynthe
 ## Hello, i'm asynthe
 I can speak the following languages (IRL)
-  Espa;ol / Spanish / スペイン語 -> Native
-  Ingles / English / 英語 -> Fluent
-  Japones / Japanese / に言語 -> Intermediate
+- Espa;ol / Spanish / スペイン語 -> Native
+- Ingles / English / 英語 -> Fluent
+- Japones / Japanese / に言語 -> Intermediate
 
 ---
 
