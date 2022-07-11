@@ -12,14 +12,16 @@ I can speak the following languages (IRL)
 
 ## I'm insterested in 
 - Moving all my Workflow to Linux
+  - Blender: 🆗
+  - Unreal Engine: ❌
+  - Gaming: ❌
 - Using OADG Japanese Keyboard on Linux
-- Gaming on Linux (Not doable by now, bc Nvidia and Wayland) -> So Windows
 
 ## I'm learning
+
 #### Apps:
 - Doom Emacs
 - vim-latex-live-preview
-
 #### Languages:
 - Bash Scripting = 25%
 - Markdown = 25%
@@ -32,6 +34,8 @@ I can speak the following languages (IRL)
 - Cyber Security
 - Videogame Development with Unreal Engine 5 and Blender
 - Making Subtitles with Aegisub
+
+---
 
 ## You can reach me in:
 #### Instagram: sokitape
