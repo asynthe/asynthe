@@ -8,24 +8,31 @@ I can speak the following languages (IRL)
 ---
 
 ## I've achieved
--My Own Linux Wayland System -> dotfiles https.s.s.s.s.s
-  -> twm: Hyprland
-  
+- A Arch, Artix, Gentoo, NixOS Install
+- My Arch (by now) Linux Wayland System -> dotfiles
+  - twm: Hyprland
+## I'm insterested in 
+- Moving all my Workflow to Linux
+- Using OADG Japanese Keyboard on Linux
+- Gaming on Linux (Not doable by now, bc Nvidia and Wayland) -> So Windows
+
 ## I'm learning
+#### Apps:
+- Doom Emacs
+- vim-latex-live-preview
+
 #### Languages:
--Python -> Rust
--C++
+- Bash Scripting = 25%
+- Markdown = 25%
+- LaTeX = 0%
+- C++ = 0%
+- Python = 0%
+- Rust = 0%
 #### Skills
 - Linux and Bash Scripting
 - Cyber Security
 - Videogame Development with Unreal Engine 5 and Blender
 - Making Subtitles with Aegisub
-
-## I'm insterested in 
--Making a good Wayland system on Linux
-  -> twm:
--Gaming on Linux (Not doable by now, bc Wayland)
-
 
 ## You can reach me in:
 #### Instagram: sokitape
